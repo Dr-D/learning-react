@@ -1,0 +1,8 @@
+[
+  {"id": 7, "model": "Fiesta", "make": "Ford", "img": "fiesta.jpeg"},
+  {"id": 8, "model": "Focus", "make": "Ford", "img": "focus.jpeg"},
+  {"id": 9, "model": "SMAX", "make": "Ford", "img": "smax.jpeg"},
+  {"id": 10, "model": "Fiesta2", "make": "Ford", "img": "fiesta.jpeg"},
+  {"id": 11, "model": "Focus2", "make": "Ford", "img": "focus.jpeg"},
+  {"id": 12, "model": "SMAX2", "make": "Ford", "img": "smax.jpeg"}
+]
