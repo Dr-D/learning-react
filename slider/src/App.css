@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.image-container {
+  width: 300px;
+  height: 200px;
+}
+
+.arrow {
+  align-self: center;
+  font-size: 2em;
+}
+
+.slide {
+  display: flex;
+}
+
+.slide-image {
+  height: 100%;
+  width: 100%;
+}
+
+
+
