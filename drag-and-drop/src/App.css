@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.image-container {
+    background: whitesmoke;
+    height: 200px;
+    width: 200px;
+}
+
+.image {
+    max-width: 100%;
+    max-height: 100%;
+}
